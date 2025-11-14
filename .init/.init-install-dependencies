@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/secure-notes-117-127/notes_database"
+}
